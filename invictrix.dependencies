@@ -1,6 +1,7 @@
 [
   {
-    "repository": "device_lge_joan-common",
-    "target_path": "device/lge/joan-common"
+    "repository": "InvictrixRom-devices/device_lge_joan-common",
+    "target_path": "device/lge/joan-common",
+    "branch": "inv-9.0"
   }
 ]
