@@ -1,2 +1,0 @@
-add_lunch_combo invictrix_h930-userdebug
-add_lunch_combo invictrix_h930-eng
