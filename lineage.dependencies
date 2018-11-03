@@ -1,13 +1,13 @@
 [
   {
-    "repository": "InvictrixRom-devices/device_lge_joan-common",
+    "repository": "LineageOS/device_lge_joan-common",
     "target_path": "device/lge/joan-common",
-    "branch": "inv-9.0"
+    "branch": "lineage-16.0"
   },
   {
-    "repository": "InvictrixRom-devices/kernel_lge_msm8998",
+    "repository": "LineageOS/kernel_lge_msm8998",
     "target_path": "kernel/lge/msm8998",
-    "branch": "inv-9.0"
+    "branch": "lineage-16.0"
   },
   {
     "remote": "github",
