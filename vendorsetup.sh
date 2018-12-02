@@ -1,0 +1,1 @@
+add_lunch_combo rr_h932-userdebug
